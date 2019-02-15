@@ -12658,6 +12658,19 @@
     "license": "MIT",
     "web": "https://github.com/zevv/nimz3"
   },
+    {
+    "name": "nim-snake-sfml",
+    "url": "hhttps://github.com/tbutton2005/nim-snake-sfml",
+    "method": "git",
+    "tags": [
+      "snake",
+      "nim",
+      "sfml"
+    ],
+    "description": "simple game",
+    "license": "GPL",
+    "web": "https://github.com/tbutton2005/nim-snake-sfml"
+  },
   {
     "name": "remarker_light",
     "url": "https://github.com/muxueqz/remarker_light",
